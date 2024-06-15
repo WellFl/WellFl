@@ -1,7 +1,7 @@
 <!---Apresentation--->
 ## Wellison Ferreira
 
-<p align="justify"> Estudante de Técnologioa. Em processo de Graduação em Analise e Desenvolvimento de Sistemas. Meu priemiro contato com a área foi estudanto a liguagem Python.
+<p align="justify"> Sou Estudante de Técnologia. Me Graduando em Análise e Desenvolvimento de Sistemas. Meu primeiro contato com a área foi estudanto a liguagem Python.
 <br>
 Gosto muito da área de Back-end Developer mesmo sendo iniciante, sou estudioso e procuro sempre ter uma rotina disciplinada.
 <!---illustration--->
