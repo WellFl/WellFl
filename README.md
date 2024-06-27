@@ -27,6 +27,9 @@ Gosto muito da área de Back-end Developer mesmo sendo iniciante, sou estudioso 
   ### My Skills
 
   #### Manin Stack
+  
+  <img align="left" alt="Developer vector created by storyset - www.freepik.com" height="45" src="https://images.credly.com/size/110x110/images/73e4a58b-a8ef-41a3-a7db-9183dd269882/image.png">
+  
   ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)&nbsp;
   ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)&nbsp;
   ![Vscode](https://img.shields.io/badge/Vscode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
