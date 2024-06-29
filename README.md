@@ -12,7 +12,7 @@ Gosto muito da área de Back-end Developer mesmo sendo iniciante, sou estudioso 
   
 - 🔭 Estou em Busca de Estágio na área de Back-end Developer.
 - 🌱 Me Graduando em ADS, e sou membro ativo da Comunidade DIO. 
-- 👨‍🎓 Estou estudando tambem Python, SQL e Cloud AWS.
+- 👨‍🎓 Estou estudando tambem Python, SQL.
 
 <!---contact--->
 ### Redes Sociais
