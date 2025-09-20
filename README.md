@@ -1,37 +1,38 @@
-# 👋 Olá, eu sou o Wellison Ferreira
+# 👋 Olá, eu sou Wellison Ferreira  
 
-🎯 **Objetivo**: Tornar-me Desenvolvedor Full-Stack (React + Node.js).  
-📚 Estudando Tecnólogo em Análise e Desenvolvimento de Sistemas — Impacta Tecnologia.  
-🌍 Buscando oportunidades no Brasil e no exterior. Atualmente focado em vagas júnior/estágio remoto.
-
----
-
-## 🧭 Resumo rápido
-- Linguagens: **JavaScript (ES6+)**, **Python**, **SQL**  
-- Front: **HTML5 · CSS3 · React**  
-- Back: **Node.js · Express**  
-- DB: **PostgreSQL · MongoDB (básico)**  
-- Versionamento: **Git & GitHub**  
-- Inglês: estudo diário. Prática de conversação em andamento.
+🎯 Desenvolvedor em formação | Foco em **JavaScript, React e Node.js**  
+🚀 Estudante de **Análise e Desenvolvimento de Sistemas** na Impacta Tecnologia  
+🌎 Buscando oportunidades no Brasil e no exterior  
 
 ---
 
-## 🛠️ Projetos (em construção)
-> Repositórios com README por projeto. Lista curta com link para os 3 projetos principais assim que estiverem no ar.
-
-- **To-Do (JS puro)** — CRUD básico.  
-- **Consumo de API (fetch)** — projeto para demonstrar integração com APIs públicas.  
-- **App de Notas (React)** — SPA com estado e persistência.
-
-(links serão atualizados à medida que os projetos forem publicados)
+## 🛠️ Tecnologias e Ferramentas
+- **Linguagens:** JavaScript, Python  
+- **Front-end:** HTML5, CSS3, React  
+- **Back-end:** Node.js, Express  
+- **Banco de Dados:** MySQL, MongoDB  
+- **Ferramentas:** Git, GitHub, VS Code, Postman  
 
 ---
 
-## 📫 Contato
-- LinkedIn: https://www.linkedin.com/in/wellison-ferreira-53490814b  
-- GitHub: https://github.com/WellFl  
-- Email: `welsp2010@gmail.com`
+## 📂 Projetos em Destaque
+🔹 [To-Do List com JavaScript](#) – Lista de tarefas com armazenamento local  
+🔹 [API REST em Node.js](#) – CRUD básico com Express e MongoDB  
+🔹 [Dashboard de Dados](#) – Visualização interativa usando React + Chart.js  
 
 ---
 
-⭐ Estou documentando meu aprendizado semanalmente. Se quiser acompanhar, siga o repositório.
+## 📈 Estatísticas do GitHub
+![WellFl GitHub stats](https://github-readme-stats.vercel.app/api?username=WellFl&show_icons=true&theme=dracula)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WellFl&layout=compact&theme=dracula)
+
+---
+
+## 📫 Como me encontrar
+- LinkedIn: [Wellison Ferreira](https://www.linkedin.com/in/wellison-ferreira-53490814b)  
+- Email: **welsp2010@gmail.com**  
+
+---
+
+✨ “Código limpo é aquele que você lê como se fosse prosa.” – Robert C. Martin
+
