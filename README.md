@@ -15,10 +15,17 @@
 
 ---
 
-## 📂 Projetos em Destaque
-🔹 [To-Do List com JavaScript](#) – Lista de tarefas com armazenamento local  
-🔹 [API REST em Node.js](#) – CRUD básico com Express e MongoDB  
-🔹 [Dashboard de Dados](#) – Visualização interativa usando React + Chart.js  
+## 🚀 Projetos em destaque
+
+🔹 Meus projetos estão em desenvolvimento.  
+Durante as próximas semanas, vou publicar aqui aplicações práticas com **JavaScript, React e Node.js**, documentando cada entrega no GitHub.  
+
+➡️ Status atual:  
+- To-Do List (JavaScript + LocalStorage) – 🔄 Em desenvolvimento  
+- Consumo de API Pública (JS + Fetch) – 🔄 Em desenvolvimento  
+- App de Notas (React + CSS) – 🔄 Em desenvolvimento  
+
+📍 Os links para os repositórios e deploys serão adicionados conforme cada projeto for finalizado.
 
 ---
 
