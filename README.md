@@ -34,5 +34,5 @@
 
 ---
 
-✨ “Código limpo é aquele que você lê como se fosse prosa.” – Robert C. Martin
+⭐ Estou documentando meu progresso semanalmente. Obrigado por visitar!
 
