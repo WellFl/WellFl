@@ -1,25 +1,27 @@
-# 👋 Wellison Ferreira  
+<h1 align="center">👋 Olá, eu sou o Wellison Ferreira</h1>
 
-💻 Desenvolvedor Full-Stack em formação | **JavaScript • React • Node.js**  
-🎓 Estudante de **Análise e Desenvolvimento de Sistemas** – Impacta Tecnologia  
-🌍 Buscando oportunidades júnior (remoto ou presencial) no Brasil e exterior  
-
----
-
-## 🚀 Sobre mim  
-Sou apaixonado por programação e estou focado em construir projetos práticos para consolidar minhas habilidades em desenvolvimento web.  
-Atualmente sigo um plano de estudos estruturado até fevereiro/2026, com entregas semanais e projetos documentados aqui no GitHub.  
+<p align="center">
+  <img align="right" alt="Developer vector created by storyset - www.freepik.com" height="250" src="https://64.media.tumblr.com/54805606e41234da265775f4ee8631ef/41d4a35f37c5abf1-f6/s1280x1920/c86995ddee2840dabfff99995367a58ed1382687.gif">
+</p>
 
 ---
 
-## 🛠️ Tecnologias  
+## 🚀 Sobre mim
+- 🎓 Estudante de **Análise e Desenvolvimento de Sistemas** na Faculdade Impacta Tecnologia.  
+- 💻 Focado em construir uma carreira sólida em **Desenvolvimento Web** (JavaScript/React/Node.js).  
+- 🌍 Interesse em oportunidades no Brasil e no exterior, com preferência por empresas internacionais.  
+- 📚 Sempre aprendendo e evoluindo — atualmente estruturando projetos semanais aqui no GitHub.  
 
-- **Linguagens:** JavaScript (ES6+), SQL  
-- **Front-end:** HTML5 · CSS3 · React  
-- **Back-end:** Node.js · Express  
-- **Banco de Dados:** PostgreSQL · MongoDB  
-- **Ferramentas:** Git · GitHub · VS Code · Postman  
-- **Idioma:** Inglês em desenvolvimento (com foco em leitura técnica e conversação)  
+---
+
+## 🛠️ Tecnologias & Ferramentas
+<div align="left">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</div>
 
 ---
 
@@ -33,22 +35,25 @@ Atualmente sigo um plano de estudos estruturado até fevereiro/2026, com entrega
 | Consumo de API Pública | JavaScript + Fetch API | 🔄 Em desenvolvimento | — |
 | App de Notas | React + CSS | 🔄 Em desenvolvimento | — |
 
----
 
-## 📈 Estatísticas do GitHub  
-
-![WellFl GitHub stats](https://github-readme-stats.vercel.app/api?username=WellFl&show_icons=true&theme=dracula)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WellFl&layout=compact&theme=dracula)  
+👉 Acompanhe os commits para ver a evolução em tempo real!
 
 ---
 
-## 📫 Como me encontrar  
+## 📊 Estatísticas
+<div align="center">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=WellFl&show_icons=true&theme=tokyonight" />
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WellFl&layout=compact&theme=tokyonight" />
+</div>
 
-- LinkedIn: [Wellison Ferreira](https://www.linkedin.com/in/wellison-ferreira-53490814b)  
-- GitHub: [WellFl](https://github.com/WellFl)  
-- Email: **welsp2010@gmail.com**
+---
 
- ---
+## 📫 Contato
+- 💼 [LinkedIn](https://www.linkedin.com/in/wellison-ferreira-53490814b/)  
+- 📧 Email: **welsp2010@gmail.com**  
+
+---
+
  
 ⭐ Estou documentando meu progresso semanalmente. Obrigado por visitar!
 
