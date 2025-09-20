@@ -1,45 +1,54 @@
-# 👋 Olá, eu sou Wellison Ferreira  
+# 👋 Wellison Ferreira  
 
-🎯 Desenvolvedor em formação | Foco em **JavaScript, React e Node.js**  
-🚀 Estudante de **Análise e Desenvolvimento de Sistemas** na Impacta Tecnologia  
-🌎 Buscando oportunidades no Brasil e no exterior  
-
----
-
-## 🛠️ Tecnologias e Ferramentas
-- **Linguagens:** JavaScript, Python  
-- **Front-end:** HTML5, CSS3, React  
-- **Back-end:** Node.js, Express  
-- **Banco de Dados:** MySQL, MongoDB  
-- **Ferramentas:** Git, GitHub, VS Code, Postman  
+💻 Desenvolvedor Full-Stack em formação | **JavaScript • React • Node.js**  
+🎓 Estudante de **Análise e Desenvolvimento de Sistemas** – Impacta Tecnologia  
+🌍 Buscando oportunidades júnior (remoto ou presencial) no Brasil e exterior  
 
 ---
 
-## 🚀 Projetos em destaque
-
-🔹 Meus projetos estão em desenvolvimento.  
-Durante as próximas semanas, vou publicar aqui aplicações práticas com **JavaScript, React e Node.js**, documentando cada entrega no GitHub.  
-
-➡️ Status atual:  
-- To-Do List (JavaScript + LocalStorage) – 🔄 Em desenvolvimento  
-- Consumo de API Pública (JS + Fetch) – 🔄 Em desenvolvimento  
-- App de Notas (React + CSS) – 🔄 Em desenvolvimento  
-
-📍 Os links para os repositórios e deploys serão adicionados conforme cada projeto for finalizado.
+## 🚀 Sobre mim  
+Sou apaixonado por programação e estou focado em construir projetos práticos para consolidar minhas habilidades em desenvolvimento web.  
+Atualmente sigo um plano de estudos estruturado até fevereiro/2026, com entregas semanais e projetos documentados aqui no GitHub.  
 
 ---
 
-## 📈 Estatísticas do GitHub
+## 🛠️ Tecnologias  
+
+- **Linguagens:** JavaScript (ES6+), SQL  
+- **Front-end:** HTML5 · CSS3 · React  
+- **Back-end:** Node.js · Express  
+- **Banco de Dados:** PostgreSQL · MongoDB  
+- **Ferramentas:** Git · GitHub · VS Code · Postman  
+- **Idioma:** Inglês em desenvolvimento (com foco em leitura técnica e conversação)  
+
+---
+
+## 📂 Projetos em destaque  
+
+*(novos projetos sendo entregues semanalmente — links serão adicionados conforme finalizados)*  
+
+| Projeto | Stack | Status | Link |
+|---|---|---|---|
+| To-Do List | JavaScript + LocalStorage | 🔄 Em desenvolvimento | — |
+| Consumo de API Pública | JavaScript + Fetch API | 🔄 Em desenvolvimento | — |
+| App de Notas | React + CSS | 🔄 Em desenvolvimento | — |
+
+---
+
+## 📈 Estatísticas do GitHub  
+
 ![WellFl GitHub stats](https://github-readme-stats.vercel.app/api?username=WellFl&show_icons=true&theme=dracula)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WellFl&layout=compact&theme=dracula)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WellFl&layout=compact&theme=dracula)  
 
 ---
 
-## 📫 Como me encontrar
+## 📫 Como me encontrar  
+
 - LinkedIn: [Wellison Ferreira](https://www.linkedin.com/in/wellison-ferreira-53490814b)  
-- Email: **welsp2010@gmail.com**  
+- GitHub: [WellFl](https://github.com/WellFl)  
+- Email: **welsp2010@gmail.com**
 
----
-
+ ---
+ 
 ⭐ Estou documentando meu progresso semanalmente. Obrigado por visitar!
 
