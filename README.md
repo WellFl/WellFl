@@ -31,7 +31,7 @@
 
 | Projeto | Stack | Status | Link |
 |---|---|---|---|
-| To-Do List | JavaScript + LocalStorage | ✅ Concluído | [—](https://github.com/WellFl/todo-list-js) |
+| To-Do List | JavaScript + LocalStorage | ✅ Concluído | [Link](https://github.com/WellFl/todo-list-js) |
 | Consumo de API Pública | JavaScript + Fetch API | 🔄 Em desenvolvimento | — |
 | App de Notas | React + CSS | 🔄 Em desenvolvimento | — |
 
