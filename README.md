@@ -8,7 +8,7 @@
 
 ## 🚀 Sobre mim
 - 🎓 Estudante de **Análise e Desenvolvimento de Sistemas** na Faculdade Impacta Tecnologia.  
-- 💻 Focado em construir uma carreira sólida em **Desenvolvimento Web** (JavaScript/React/Node.js).  
+- 💻 Focado em construir uma carreira sólida como Dev Full-Stack.  
 - 🌍 Interesse em oportunidades no Brasil e no exterior, com preferência por empresas internacionais.  
 - 📚 Sempre aprendendo e evoluindo — atualmente estruturando projetos semanais aqui no GitHub.  
 
@@ -31,7 +31,7 @@
 
 | Projeto | Stack | Status | Link |
 |---|---|---|---|
-| To-Do List | JavaScript + LocalStorage | 🔄 Em desenvolvimento | — |
+| To-Do List | JavaScript + LocalStorage | ✅ Concluído | — |
 | Consumo de API Pública | JavaScript + Fetch API | 🔄 Em desenvolvimento | — |
 | App de Notas | React + CSS | 🔄 Em desenvolvimento | — |
 
